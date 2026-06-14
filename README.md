@@ -9,5 +9,3 @@ Optimiseur de trajets multimodaux — JOJ Dakar 2026
 1. Créer la base : CREATE DATABASE pass_tranquille;
 2. Activer PostGIS : CREATE EXTENSION postgis;
 3. Exécuter le fichier : schema_pass_tranquille.sql
-
-## Équipe — Groupe 4 · DIT · 2025-2026# pass-tranquille
